@@ -5,12 +5,5 @@ def main(msg):
     print(msg)
 
 main("Hello People")
-
-<<<<<<< HEAD
-# adding something different
-=======
-
-#Testtesttest
->>>>>>> refs/remotes/origin/master]
-
-# Hello Test Here
+ #back to normal!!!
+ #BranchV1
